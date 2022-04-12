@@ -1,4 +1,4 @@
-fibonacii number
+//fibonacii number/
 
 class Fibonacci{  
 public static void main(String args[])  
@@ -18,7 +18,7 @@ public static void main(String args[])
 
 
 
-2.Reverse the number 
+//2.Reverse the number 
 
 public class ReverseNumber  
 {  
@@ -37,7 +37,7 @@ System.out.println("The reverse of the given number is: " + reverse);
 
 
 
-3.ATM functionality 
+//3.ATM functionality 
 
 
 import java.util.Scanner;  
